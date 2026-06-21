@@ -28,7 +28,8 @@ This is a **beginner-level project** developed to explore the fundamentals of da
 | `COMMANDS` | Print the list of commands. |
 
 ## Why I Built This
-As I continue my journey into systems programming, I wanted to move beyond high-level abstractions. This project helped me bridge the gap between theoretical knowledge of hash tables and the reality of implementing them in production-grade C++. 
+As I prepare for my studies in Computer Science, I wanted to go beyond the basics and truly understand how data is actually stored in memory. I built this project to challenge myself with low-level C++, moving away from high-level libraries to implement a hash table from scratch. 
+This project was a great way to bridge the gap between the theory I've been reading about and the reality of writing functioning, memory-managed software. I'm really excited about systems programming and am constantly looking for ways to improve my code!
 
 ---
 *Developed as a learning project to master low-level C++.*
