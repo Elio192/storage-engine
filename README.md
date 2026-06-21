@@ -29,7 +29,5 @@ This is a **beginner-level project** developed to explore the fundamentals of da
 ## Why I Built This
 As I continue my journey into systems programming, I wanted to move beyond high-level abstractions. This project helped me bridge the gap between theoretical knowledge of hash tables and the reality of implementing them in production-grade C++. 
 
-*Feedback and suggestions for improvement are highly encouraged!*
-
 ---
 *Developed as a learning project to master low-level C++.*
